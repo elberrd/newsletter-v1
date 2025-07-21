@@ -39,11 +39,6 @@ next-env.d.ts
 .vscode/
 .idea/
 
-# Custom folders
-.bmad-core/
-.claude/
-.cursor/
-
 # Logs
 logs
 *.log
